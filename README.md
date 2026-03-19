@@ -1,6 +1,4 @@
 # Proxy_ADB_Tunnel
-Proxy ADB Tunnel
-[readme.md](https://github.com/user-attachments/files/26114483/readme.md)
 # 📖 User Manual: Proxy ADB Tunnel Utility
 
 ## 1. Purpose of the Utility
