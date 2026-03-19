@@ -1,4 +1,3 @@
-# Proxy_ADB_Tunnel
 # 📖 User Manual: Proxy ADB Tunnel Utility
 
 ## 1. Purpose of the Utility
