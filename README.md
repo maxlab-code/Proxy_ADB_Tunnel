@@ -1,5 +1,10 @@
 # 📖 User Manual: Proxy ADB Tunnel Utility
 
+> [!IMPORTANT]
+> 🌐 Read this in other languages:
+> [English](README.md) | [Русский](README.ru.md)
+
+
 ## 1. Purpose of the Utility
 **Proxy ADB Tunnel** is a portable script bundle for Windows designed to seamlessly forward VPN traffic from an Android smartphone to a personal computer via a USB cable.
 
